@@ -2,7 +2,7 @@
 #TensorFlow, Theano combine
 #pip install keras
 
-##3 backend
+##3 backend; kernel from either tensorflow or theano
 #theano or tensorflow basis NN
 
 #m1 find the folder 
